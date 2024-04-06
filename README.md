@@ -17,10 +17,3 @@
    ### Para me seguir nas redes sociais abaixo!
 <a href="https://instagram.com/murilo_xavierr?igshid=OTk0YzhjMDVlZA==" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
  <a href = "mailto:muriloxmacedo@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  
- 
-  ![Snake animation](https://github.com/Murilo-xavier
-/
-murilo-xavier
-Cannot fork because you own this repository and are not a member of any organizations.
-/blob/output/github-contribution-grid-snake.svg)
